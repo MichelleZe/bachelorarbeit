@@ -298,13 +298,13 @@ radioButtonSampleClass = RadioButtonGroup(
 radioButtonSampleClass.on_change('active', changes)
 
 chromosoms = list(indexFile.keys())
-chooseChromosom = Select(title='Chromosom', options=chromosoms)
+chooseChromosom = Select(title='Chromosom', value="1", options=chromosoms)
 chooseChromosom.on_change('value', changes)
 
 startValue = TextInput(value='0', title="Start")
 startValue.on_change('value', changes)
 
-endValue = TextInput(value='1000', title="Ende")
+endValue = TextInput(value='100', title="Ende")
 endValue.on_change('value', changes)
 
 finalGridplot = layout(children = [p, [widgetbox(checkboxRawAlgorithm, radioButtonSampleClass, chooseChromosom), row(widgetbox(startValue, endValue))]], toolbar_location='left')

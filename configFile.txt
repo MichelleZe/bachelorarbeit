@@ -1,0 +1,6 @@
+Sample Class Raw Derived 
+Index Index ..\mono_makro\index_hs37d5_Phix_Lambda.hdf5 /
+HM03 Ma ..\mono_makro\43_Hm03_BlMa_Ct2_WGBS_E.hdf5 ..\mono_makro\43_Hm05_BlMo_Ct_WGBS_E.hdf5 
+HM03 Mo ..\mono_makro\43_Hm03_BlMo_Ct2_WGBS_E.hdf5 ..\mono_makro\43_Hm05_BlMa_Ct_WGBS_E.hdf5 
+HM05 Ma ..\mono_makro\43_Hm05_BlMa_Ct_WGBS_E.hdf5 ..\mono_makro\43_Hm03_BlMa_Ct2_WGBS_E.hdf5 
+HM05 Mo ..\mono_makro\43_Hm05_BlMo_Ct_WGBS_E.hdf5 ..\mono_makro\43_Hm03_BlMo_Ct2_WGBS_E.hdf5 
